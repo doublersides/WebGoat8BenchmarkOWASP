@@ -1,0 +1,6 @@
+projectKey=Webgoat8
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/Webgoat8
+ceTaskId=AWFklHyc4HsTDr0dR58d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWFklHyc4HsTDr0dR58d
